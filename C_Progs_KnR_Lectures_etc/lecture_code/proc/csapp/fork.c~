@@ -1,0 +1,7 @@
+int main(){
+
+  int a = 9;
+
+  printf("p2: a=%d\n", a++);
+
+}

@@ -1,0 +1,11 @@
+#include <string.h>
+#include <stdio.h>
+
+int main(){
+
+  char *s = NULL;
+  int x = strlen(s);
+
+  printf("%d\n", x);
+
+}

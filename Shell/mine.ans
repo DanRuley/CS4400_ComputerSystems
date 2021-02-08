@@ -1,0 +1,9 @@
+./sdriver.pl -t trace17.txt -s ./tsh -a "-p"
+#
+# trace17.txt - Tests piping between two commands
+#
+int main(int argc, char **argv) 
+stubs-64.h
+    if (argc != *) {
+36
+tsh> jobs

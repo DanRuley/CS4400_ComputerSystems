@@ -1,0 +1,15 @@
+a.out
+Makefile
+microbash
+microbash.c
+microbash.c~
+reader
+reader.c
+wc
+wordcount
+#wordcount.c#
+wordcount.c
+wordcount.c~
+writer
+writer.c
+writer.c~
